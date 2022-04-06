@@ -1,0 +1,27 @@
+{
+  "name": "uniproweb",
+  "version": "1.0.0",
+  "description": "unipro website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uphemraj/UniproWeb.git"
+  },
+  "author": "hemraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uphemraj/UniproWeb/issues"
+  },
+  "homepage": "https://github.com/uphemraj/UniproWeb#readme",
+  "devDependencies": {
+    "@percy/cli": "^1.0.4",
+    "@percy/cypress": "^3.1.1",
+    "axe-core": "^4.4.1",
+    "cypress": "^9.5.3",
+    "cypress-axe": "^0.14.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
